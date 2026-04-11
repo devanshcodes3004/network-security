@@ -1,0 +1,8 @@
+[2026-04-06 16:19:47,832] 27 root - INFO - MongoDB URL loaded successfully
+[2026-04-06 16:19:47,832] 34 root - INFO - Reading CSV file
+[2026-04-06 16:19:47,872] 39 root - INFO - Converting CSV to JSON format
+[2026-04-06 16:19:48,015] 43 root - INFO - CSV successfully converted into JSON records
+[2026-04-06 16:19:48,015] 53 root - INFO - Connecting to MongoDB Atlas
+[2026-04-06 16:19:56,171] 61 root - INFO - MongoDB connection successful
+[2026-04-06 16:19:56,171] 66 root - INFO - Inserting records into MongoDB
+[2026-04-06 16:20:04,488] 70 root - INFO - Data inserted successfully
