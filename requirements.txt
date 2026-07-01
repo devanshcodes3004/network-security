@@ -1,17 +1,29 @@
+streamlit
 python-dotenv
-pandas 
+pandas
 numpy
 matplotlib
-seaborn 
+seaborn
+
+scikit-learn
+joblib
+
+requests
+python-whois
+dnspython
+tldextract
+beautifulsoup4
+lxml
+
 pymongo
 certifi
 pymongo[srv]==3.12
-scikit-learn
+
 pyyaml
 mlflow
 dagshub
+
 fastapi
 uvicorn
-python-whois
 
 # -e .
