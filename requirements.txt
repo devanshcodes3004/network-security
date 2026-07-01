@@ -12,5 +12,6 @@ mlflow
 dagshub
 fastapi
 uvicorn
+python-whois
 
 # -e .
